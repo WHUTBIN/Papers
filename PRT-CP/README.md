@@ -27,7 +27,7 @@ safety-critical industrial systems. The framework integrates:
 @article{wang2026prtcp,
   title={Trustworthy Virtual Sensing via Physics-Residual Transformers and Conformal Prediction},
   author={Wang, Bin and Zio, Enrico},
-  journal={Knowledge-Based Systems},
+  journal={XXX},
   year={2026}
 }
 ```
