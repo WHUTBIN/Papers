@@ -1,7 +1,7 @@
 
 # Trustworthy Virtual Sensing via Physics-Residual Transformers and Conformal Prediction
 
-**Journal:** Knowledge-Based Systems | **Status:** Under Review 2026
+**Journal:** Knowledge-Based Systems | **Link:** https://doi.org/10.1016/j.knosys.2026.116110
 
 ## Graphical Abstract
 
